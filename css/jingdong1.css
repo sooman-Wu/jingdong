@@ -11,13 +11,11 @@ body{
 	width: 1210px;
 	height: 100%;
 	margin: 0 auto;
-	/*background: red;*/
 }
 .head-left{
 	float: left;
 	height: 100%;
 	text-align: center;
-	/*background: blue;*/
 }
 .hidden{
 	background: #fff;
@@ -27,7 +25,6 @@ body{
 .head-right{
 	float: right;
 	height: 100%;
-	/*background: yellow;*/
 }
 .list{
 	font-size: 12px;
@@ -66,7 +63,6 @@ body{
 .xl1{
 	width: 315px;
 	height: 245px;
-	/*background: red;*/
     position: absolute;
     top: 100%;
     left: -1px;
@@ -93,7 +89,6 @@ body{
 .xl2{
 	width: 285px;
 	height: 295px;
-	/*background: yellow;*/
     position: absolute;
     top: 100%;
     left: -1px;
@@ -103,7 +98,6 @@ body{
 .xl2-tt{
 	width: 80%;
 	height: 60px;
-	/*background: blue;*/
 	margin-top: 10px;
 }
 .xl2-tt img{
@@ -134,7 +128,6 @@ body{
 .xl2-l{
 	width: 142px;
 	height: 120px;
-	/*background: red;*/
 	margin-top: 20px;
 	_margin-top:20px;
 	float: left;
@@ -798,14 +791,7 @@ z-index: 2;
 .bnlt{
 	width: 760px;
 	height: 50px;
-	/*background: purple;*/
-	/*float: left;*/
 }
-/*.bnlt11{
-	width: 760px;
-	height: 15px;
-	background: green;
-}*/
 .bnlt-1{
     width: auto;
 	height: 30px;
@@ -1486,7 +1472,6 @@ color: #c81623;
 .f1-left{
 	width: 330px;
 	height: 474px;
-	background: red;
 	float: left;
 	overflow: hidden;
 	position: relative;
@@ -1749,10 +1734,6 @@ color: #c81623;
 .biao{
 	width: 219px;
 	height: 157px;
-	/*border-right:1px solid #ededed;
-	border-bottom:1px solid #ededed; 
-	float: left;*/
-	/*padding:6px 17px 0;*/
 	text-align: center;
 }
 .biao1{
@@ -1924,7 +1905,6 @@ color: #c81623;
 .gehu-box-left{
 	width: 210px;
 	height: 474px;
-	background: pink;
 	float: left;
 	overflow: hidden;
 	position: relative;
@@ -2367,7 +2347,6 @@ color: #C81623;
 	width: 330px;
 	height: 474px;
 	float: left;
-	background: red;
 	position: relative;
 }
 .sj-left-1{
